@@ -7,7 +7,7 @@ This project demonstrates how to manage complex state using arrays, component co
 
 ## 🚀 Live Demo
 
-👉 [Click here to view the deployed app](https://react-todo-app-rose.vercel.app/)
+👉 [Click here to view the deployed app](https://react-todo-app-mu-gray.vercel.app/)
 
 ---
 
@@ -51,7 +51,7 @@ react-todo-app/
 
 ---
 ## 📸 Screenshot
-
+![alt text](image.png)
 
 ---
 
